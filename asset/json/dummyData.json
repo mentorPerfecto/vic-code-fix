@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "data": [
+    {
+      "kpi": {
+        "contractSteak": 0,
+        "projectCount": 5,
+        "totalContract": 0,
+        "totalTrade": 0,
+        "tradeSteak": 0
+      },
+      "marketName": "Agriculture",
+      "status": "ACTIVE",
+      "sectorAvailable": "ALL",
+      "slug": "agriculture",
+      "deleted": false,
+      "updatedAt": "2023-03-02T11:39:09.962Z",
+      "id": "63ffd3116d780d7ea48f8a17"
+    },
+    {
+      "kpi": {
+        "totalTrade": 0,
+        "totalContract": 0,
+        "tradeSteak": 0,
+        "contractSteak": 0,
+        "projectCount": 0
+      },
+      "marketName": "Real Estate",
+      "status": "ACTIVE",
+      "sectorAvailable": "ALL",
+      "slug": "real-estate",
+      "deleted": false,
+      "id": "63ffd4496d780d7ea48f8a18"
+    }
+  ],
+  "message": "market retrived successfully"
+}
